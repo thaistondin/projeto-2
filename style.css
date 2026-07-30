@@ -20,7 +20,12 @@ main{
 }
 article{
     display: flex;
-    
+
+    border: 1px solid #ff0062;
+
+    margin: 16px;
+    gap: 16px;
+    padding: 16px;
 }
 
 img{ 
