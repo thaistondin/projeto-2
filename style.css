@@ -9,6 +9,10 @@
     --fonte-texto:'Segoe UI', sans-serif;
 }
 
+* {
+    transition: background-color 0.8s ease;
+}
+
 .tema-escuro{
     --cor-primaria: #ff9ec7;
     --cor-secundaria:#fe9369;
